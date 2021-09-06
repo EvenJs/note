@@ -1,0 +1,1 @@
+#urlsample: http://www.bing.com/search?q=gulp&first=9#history- protocol - auth - host(hostname,port)- path - hash 
